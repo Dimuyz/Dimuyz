@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Dimaz!<br>🎓 Software Engineering Student | 💻 Programmer in Progress | 🛡️ Cybersecurity Enthusiast<br><br>I'm currently learning Python, C++, Web Development, Linux, and Cybersecurity.<br>I enjoy building projects, solving problems, exploring technology, and continuously improving my skills.<br><br>🚀 Currently learning:<br><br>🐍 Python<br>⚡ C++<br>🌐 HTML, CSS & JavaScript<br>⚡C#<br>⚡PHP<br>🐧 Linux<br>🛡️ Cybersecurity & Ethical Hacking<br><br>🎯 Goals:<br>Become a skilled Full-Stack Developer & Cybersecurity Engineer and build useful technology that can make an impact.<br><br>“Learn. Build. Break. Fix. Repeat.” 💻
+👋 Hi, I'm Dimaz!<br>🎓 Software Engineering Student | 💻 Programmer in Progress | 🛡️ Cybersecurity Enthusiast<br><br>I'm currently learning Python, C++, and other programming languages, Web Development, Linux, and Cybersecurity.<br>I enjoy building projects, solving problems, exploring technology, and continuously improving my skills.<br><br>🚀 Currently learning:<br><br>🐍 Python<br>⚡ C++<br>🌐 HTML, CSS & JavaScript<br>⚡C#<br>⚡PHP<br>🐧 Linux<br>🛡️ Cybersecurity & Ethical Hacking<br><br>🎯 Goals:<br>Become a skilled Full-Stack Developer & Cybersecurity Engineer and build useful technology that can make an impact.<br><br>“Learn. Build. Break. Fix. Repeat.” 💻
 
 
 ## 🌐 Socials:
